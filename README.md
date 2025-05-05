@@ -4,7 +4,7 @@
 
 This repository implements an end-to-end deep learning pipeline for automated image colorization using PyTorch. The system leverages Conditional Generative Adversarial Networks (cGANs) inspired by the Pix2Pix architecture to generate realistic colorization of grayscale images.
 
-![Example of Image Colorization](/)
+![Example of Image Colorization](assets/colorization-thumbnail.png)
 
 ## Overview
 
